@@ -1,0 +1,3 @@
+[console_scripts]
+pin-actions = pin_actions.pin:pin_actions
+
